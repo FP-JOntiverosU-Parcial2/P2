@@ -42,9 +42,9 @@ public class Problema2 {
         float r1 = (float) (m*milla);
         float r2 = (float) (m*yarda);
         float r3 = (float) (m*pie);
-        System.out.println(m + " es igual a: " + r1);
-        System.out.println(m + " es igual a: " + r2);
-        System.out.println(m + " es igual a: " + r3);
+        System.out.println(m + " metros" + " es igual a: " + r1 + " milla(s)");
+        System.out.println(m + " metros" + " es igual a: " + r2 + " yarda(s");
+        System.out.println(m + " metros" + " es igual a: " + r3 + " pie(s)");
         return m;
     }
             
